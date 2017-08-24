@@ -1,5 +1,10 @@
 [Codecov][0] Java Maven Example
 ===============================
+[![Build Status](
+https://travis-ci.org/cftang/example-java-maven.svg?branch=master)](
+https://travis-ci.org/cftang/example-java-maven)
+[![codecov](https://codecov.io/gh/cftang/example-java-maven/branch/master/graph/badge.svg)](https://codecov.io/gh/cftang/example-java-maven)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/57697130d0a64aa987d7d43d0f3444b6)](https://www.codacy.com/app/cftang/example-java-maven?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cftang/example-java-maven&amp;utm_campaign=Badge_Grade)
 
 1. Add `cobertura-maven-plugin` plugin to your pom.xml file, [see here](https://github.com/codecov/example-java-maven/blob/master/pom.xml#L47-L58)
 1. Call `mvn cobertura:cobertura` during your CI tests, [see here](https://github.com/codecov/example-java-maven/blob/master/.travis.yml#L4)
@@ -21,9 +26,3 @@
 [5]: http://docs.codecov.io/docs/about-the-codecov-bash-uploader#section-upload-token
 
 
-
-[![Build Status](
-https://travis-ci.org/cftang/example-java-maven.svg?branch=master)](
-https://travis-ci.org/cftang/example-java-maven)
-[![codecov](https://codecov.io/gh/cftang/example-java-maven/branch/master/graph/badge.svg)](https://codecov.io/gh/cftang/example-java-maven)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09aed95b69c14cb88521890335633acc)](https://www.codacy.com/app/RocketChat/Rocket-Chat-iOS)
