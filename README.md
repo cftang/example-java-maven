@@ -26,3 +26,4 @@ https://travis-ci.org/cftang/example-java-maven)
 [5]: http://docs.codecov.io/docs/about-the-codecov-bash-uploader#section-upload-token
 
 
+https://app.codeship.com/projects/241984/tests/edit
