@@ -21,5 +21,9 @@
 [5]: http://docs.codecov.io/docs/about-the-codecov-bash-uploader#section-upload-token
 
 
-https://travis-ci.org/cftang/example-java-maven.svg?branch=master
 
+[![Build Status](
+https://travis-ci.org/cftang/example-java-maven.svg?branch=master)](
+https://travis-ci.org/cftang/example-java-maven)
+[![codecov](https://codecov.io/gh/cftang/example-java-maven/branch/master/graph/badge.svg)](https://codecov.io/gh/cftang/example-java-maven)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09aed95b69c14cb88521890335633acc)](https://www.codacy.com/app/RocketChat/Rocket-Chat-iOS)
