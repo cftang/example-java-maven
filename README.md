@@ -19,3 +19,7 @@
 [2]: https://github.com/codecov/example-gradle
 [3]: https://github.com/codecov/example-android
 [5]: http://docs.codecov.io/docs/about-the-codecov-bash-uploader#section-upload-token
+
+
+https://travis-ci.org/cftang/example-java-maven.svg?branch=master
+
