@@ -4,9 +4,9 @@ public class HelloWorld {
 	
 	public String getMessage(boolean bigger) {
 		if (bigger) {
-			return "Hello Universe!";
+			return "Hello Universe 1!";
 		} else {
-			return "Hello World!";
+			return "Hello World! 2";
 		}
 	}
 
